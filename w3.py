@@ -10,6 +10,7 @@
 #  python is flexible
 #  python is fun
 #  python is powerful
+#  python is case sensitive
 
 print("define python") # it will print define python
 
